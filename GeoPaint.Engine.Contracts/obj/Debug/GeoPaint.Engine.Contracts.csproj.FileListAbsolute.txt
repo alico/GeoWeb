@@ -1,0 +1,29 @@
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Engine.Contracts\bin\Debug\GeoPaint.Engine.Contracts.dll
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Engine.Contracts\bin\Debug\GeoPaint.Engine.Contracts.pdb
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Engine.Contracts\obj\Debug\GeoPaint.Engine.Contracts.csprojResolveAssemblyReference.cache
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Engine.Contracts\obj\Debug\GeoPaint.Engine.Contracts.dll
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Engine.Contracts\obj\Debug\GeoPaint.Engine.Contracts.pdb
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Engine.Contracts\bin\Debug\GeoWeb.DTO.dll
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Engine.Contracts\bin\Debug\GeoWeb.DTO.pdb
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Engine.Contracts\bin\Debug\GeoPaint.DTO.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Engine.Contracts\bin\Debug\GeoPaint.DTO.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.Engine.Contracts\bin\Debug\GeoPaint.Engine.Contracts.dll
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.Engine.Contracts\bin\Debug\GeoPaint.Engine.Contracts.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.Engine.Contracts\bin\Debug\GeoPaint.DTO.dll
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.Engine.Contracts\bin\Debug\GeoWeb.DTO.dll
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.Engine.Contracts\bin\Debug\GeoPaint.DTO.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.Engine.Contracts\bin\Debug\GeoWeb.DTO.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.Engine.Contracts\obj\Debug\GeoPaint.Engine.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.Engine.Contracts\obj\Debug\GeoPaint.Engine.Contracts.dll
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.Engine.Contracts\obj\Debug\GeoPaint.Engine.Contracts.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Engine.Contracts\bin\Debug\GeoPaint.Engine.Contracts.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Engine.Contracts\bin\Debug\GeoPaint.Engine.Contracts.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Engine.Contracts\bin\Debug\GeoPaint.DTO.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Engine.Contracts\bin\Debug\GeoWeb.DTO.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Engine.Contracts\bin\Debug\GeoPaint.DTO.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Engine.Contracts\bin\Debug\GeoWeb.DTO.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Engine.Contracts\obj\Debug\GeoPaint.Engine.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Engine.Contracts\obj\Debug\GeoPaint.Engine.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Engine.Contracts\obj\Debug\GeoPaint.Engine.Contracts.csproj.CopyComplete
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Engine.Contracts\obj\Debug\GeoPaint.Engine.Contracts.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Engine.Contracts\obj\Debug\GeoPaint.Engine.Contracts.pdb

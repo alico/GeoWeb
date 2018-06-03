@@ -1,0 +1,5 @@
+c:\users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.DTO\bin\Debug\GeoWeb.DTO.dll
+c:\users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.DTO\bin\Debug\GeoWeb.DTO.pdb
+c:\users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.DTO\obj\Debug\GeoWeb.DTO.csprojResolveAssemblyReference.cache
+c:\users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.DTO\obj\Debug\GeoWeb.DTO.dll
+c:\users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.DTO\obj\Debug\GeoWeb.DTO.pdb

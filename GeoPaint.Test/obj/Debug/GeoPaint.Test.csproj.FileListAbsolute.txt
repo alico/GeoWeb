@@ -1,0 +1,55 @@
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\GeoPaint.Test.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\GeoPaint.Test.pdb
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\GeoPaint.Data.Contracts.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\GeoPaint.Engine.Contracts.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\GeoWeb.DTO.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\NSubstitute.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\GeoWeb.Entities.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\GeoPaint.DTO.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\GeoPaint.Data.Contracts.pdb
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\GeoPaint.Engine.Contracts.pdb
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\GeoWeb.DTO.pdb
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\NSubstitute.xml
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\GeoWeb.Entities.pdb
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\GeoPaint.DTO.pdb
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\obj\Debug\GeoPaint.Test.csprojResolveAssemblyReference.cache
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\obj\Debug\GeoPaint.Test.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\obj\Debug\GeoPaint.Test.pdb
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\nunit.framework.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\nunit.framework.xml
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\GeoWeb.Engine.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\GeoPaint.Common.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\GeoWeb.Engine.pdb
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Test\bin\Debug\GeoPaint.Common.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\bin\Debug\GeoPaint.Test.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\bin\Debug\GeoPaint.Test.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\bin\Debug\GeoPaint.Data.Contracts.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\bin\Debug\GeoPaint.DTO.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\bin\Debug\GeoPaint.Engine.Contracts.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\bin\Debug\GeoWeb.DTO.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\bin\Debug\GeoWeb.Engine.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\bin\Debug\GeoWeb.Entities.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\bin\Debug\NSubstitute.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\bin\Debug\nunit.framework.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\bin\Debug\GeoPaint.Common.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\bin\Debug\GeoPaint.Data.Contracts.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\bin\Debug\GeoPaint.DTO.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\bin\Debug\GeoPaint.Engine.Contracts.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\bin\Debug\GeoWeb.DTO.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\bin\Debug\GeoWeb.Engine.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\bin\Debug\GeoWeb.Entities.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\bin\Debug\NSubstitute.xml
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\bin\Debug\nunit.framework.xml
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\bin\Debug\GeoPaint.Common.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\obj\Debug\GeoPaint.Test.csprojResolveAssemblyReference.cache
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\obj\Debug\GeoPaint.Test.csproj.CoreCompileInputs.cache
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\obj\Debug\GeoPaint.Test.csproj.CopyComplete
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\obj\Debug\GeoPaint.Test.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Test\obj\Debug\GeoPaint.Test.pdb

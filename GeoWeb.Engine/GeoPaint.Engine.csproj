@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B39781A7-B892-45C9-AEBC-E522FDB3694D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GeoWeb.Engine</RootNamespace>
+    <AssemblyName>GeoWeb.Engine</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessEngineBase.cs" />
+    <Compile Include="BusinessEngineFactory.cs" />
+    <Compile Include="ShapeEngine.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GeoPaint.Common\GeoPaint.Common.csproj">
+      <Project>{D617419F-2B29-4C0D-9071-2115C978FA01}</Project>
+      <Name>GeoPaint.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GeoPaint.Data.Contracts\GeoPaint.Data.Contracts.csproj">
+      <Project>{F9150889-182C-4AC3-82D2-F99C793D8E76}</Project>
+      <Name>GeoPaint.Data.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GeoPaint.DTO\GeoPaint.DTO.csproj">
+      <Project>{59CD4D43-C789-4C19-AA23-18F11351EEEB}</Project>
+      <Name>GeoPaint.DTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GeoPaint.Engine.Contracts\GeoPaint.Engine.Contracts.csproj">
+      <Project>{9CF510A0-1F86-46D0-8C35-7BBF82384F31}</Project>
+      <Name>GeoPaint.Engine.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GeoWeb.DTO\GeoPaint.Component.csproj">
+      <Project>{93B2999B-F895-45AC-9687-94084344F150}</Project>
+      <Name>GeoPaint.Component</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GeoWeb.Entities\GeoPaint.Entities.csproj">
+      <Project>{8699bfe9-fbf5-4a1f-8263-5440177574c2}</Project>
+      <Name>GeoPaint.Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

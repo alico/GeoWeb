@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfComplexShape xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ComplexShape>
+    <Id>1</Id>
+    <Name>Ali test</Name>
+    <Content>{"Shapes":[{"Id":1,"PositionX":10,"PositionY":20,"Effect":{"Id":23}},{"Width":90,"Id":1,"PositionX":10,"PositionY":20,"Effect":{"Id":25}}],"Effects":[{"Id":80}]}</Content>
+  </ComplexShape>
+  <ComplexShape>
+    <Id>2</Id>
+    <Name>Ali test</Name>
+    <Content>{"Shapes":[{"Id":1,"PositionX":10,"PositionY":20,"Effect":{"Id":23}},{"Width":90,"Id":1,"PositionX":10,"PositionY":20,"Effect":{"Id":25}}],"Effects":[{"Id":80}]}</Content>
+  </ComplexShape>
+</ArrayOfComplexShape>

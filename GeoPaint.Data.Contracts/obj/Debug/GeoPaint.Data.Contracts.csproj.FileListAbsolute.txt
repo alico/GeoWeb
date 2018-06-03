@@ -1,0 +1,23 @@
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Data.Contracts\bin\Debug\GeoPaint.Data.Contracts.dll
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Data.Contracts\bin\Debug\GeoPaint.Data.Contracts.pdb
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Data.Contracts\obj\Debug\GeoPaint.Data.Contracts.csprojResolveAssemblyReference.cache
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Data.Contracts\obj\Debug\GeoPaint.Data.Contracts.dll
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Data.Contracts\obj\Debug\GeoPaint.Data.Contracts.pdb
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Data.Contracts\bin\Debug\GeoWeb.Entities.dll
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Data.Contracts\bin\Debug\GeoWeb.Entities.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.Data.Contracts\bin\Debug\GeoPaint.Data.Contracts.dll
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.Data.Contracts\bin\Debug\GeoPaint.Data.Contracts.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.Data.Contracts\bin\Debug\GeoWeb.Entities.dll
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.Data.Contracts\bin\Debug\GeoWeb.Entities.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.Data.Contracts\obj\Debug\GeoPaint.Data.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.Data.Contracts\obj\Debug\GeoPaint.Data.Contracts.dll
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.Data.Contracts\obj\Debug\GeoPaint.Data.Contracts.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Data.Contracts\bin\Debug\GeoPaint.Data.Contracts.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Data.Contracts\bin\Debug\GeoPaint.Data.Contracts.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Data.Contracts\bin\Debug\GeoWeb.Entities.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Data.Contracts\bin\Debug\GeoWeb.Entities.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Data.Contracts\obj\Debug\GeoPaint.Data.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Data.Contracts\obj\Debug\GeoPaint.Data.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Data.Contracts\obj\Debug\GeoPaint.Data.Contracts.csproj.CopyComplete
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Data.Contracts\obj\Debug\GeoPaint.Data.Contracts.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Data.Contracts\obj\Debug\GeoPaint.Data.Contracts.pdb

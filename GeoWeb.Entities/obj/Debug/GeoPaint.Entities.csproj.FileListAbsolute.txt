@@ -1,0 +1,15 @@
+c:\users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Entities\bin\Debug\GeoWeb.Entities.dll
+c:\users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Entities\bin\Debug\GeoWeb.Entities.pdb
+c:\users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Entities\obj\Debug\GeoWeb.Entities.dll
+c:\users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Entities\obj\Debug\GeoWeb.Entities.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Entities\bin\Debug\GeoWeb.Entities.dll
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Entities\bin\Debug\GeoWeb.Entities.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Entities\obj\Debug\GeoPaint.Entities.csprojResolveAssemblyReference.cache
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Entities\obj\Debug\GeoWeb.Entities.dll
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Entities\obj\Debug\GeoWeb.Entities.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Entities\bin\Debug\GeoWeb.Entities.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Entities\bin\Debug\GeoWeb.Entities.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Entities\obj\Debug\GeoPaint.Entities.csprojResolveAssemblyReference.cache
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Entities\obj\Debug\GeoPaint.Entities.csproj.CoreCompileInputs.cache
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Entities\obj\Debug\GeoWeb.Entities.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Entities\obj\Debug\GeoWeb.Entities.pdb

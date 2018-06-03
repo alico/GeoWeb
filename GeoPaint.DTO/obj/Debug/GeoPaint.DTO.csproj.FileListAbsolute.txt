@@ -1,0 +1,23 @@
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.DTO\bin\Debug\GeoPaint.DTO.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.DTO\bin\Debug\GeoPaint.DTO.pdb
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.DTO\bin\Debug\GeoWeb.DTO.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.DTO\bin\Debug\GeoWeb.DTO.pdb
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.DTO\obj\Debug\GeoPaint.DTO.csprojResolveAssemblyReference.cache
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.DTO\obj\Debug\GeoPaint.DTO.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.DTO\obj\Debug\GeoPaint.DTO.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.DTO\bin\Debug\GeoPaint.DTO.dll
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.DTO\bin\Debug\GeoPaint.DTO.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.DTO\bin\Debug\GeoWeb.DTO.dll
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.DTO\bin\Debug\GeoWeb.DTO.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.DTO\obj\Debug\GeoPaint.DTO.csprojResolveAssemblyReference.cache
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.DTO\obj\Debug\GeoPaint.DTO.dll
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.DTO\obj\Debug\GeoPaint.DTO.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.DTO\bin\Debug\GeoPaint.DTO.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.DTO\bin\Debug\GeoPaint.DTO.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.DTO\bin\Debug\GeoWeb.DTO.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.DTO\bin\Debug\GeoWeb.DTO.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.DTO\obj\Debug\GeoPaint.DTO.csprojResolveAssemblyReference.cache
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.DTO\obj\Debug\GeoPaint.DTO.csproj.CoreCompileInputs.cache
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.DTO\obj\Debug\GeoPaint.DTO.csproj.CopyComplete
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.DTO\obj\Debug\GeoPaint.DTO.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.DTO\obj\Debug\GeoPaint.DTO.pdb

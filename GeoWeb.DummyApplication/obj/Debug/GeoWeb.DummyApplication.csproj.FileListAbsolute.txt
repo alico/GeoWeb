@@ -1,0 +1,12 @@
+c:\users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.DummyApplication\bin\Debug\GeoWeb.DummyApplication.exe.config
+c:\users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.DummyApplication\bin\Debug\GeoWeb.DummyApplication.exe
+c:\users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.DummyApplication\bin\Debug\GeoWeb.DummyApplication.pdb
+c:\users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.DummyApplication\bin\Debug\GeoWeb.DTO.dll
+c:\users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.DummyApplication\bin\Debug\GeoWeb.Engine.dll
+c:\users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.DummyApplication\bin\Debug\Newtonsoft.Json.dll
+c:\users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.DummyApplication\bin\Debug\GeoWeb.DTO.pdb
+c:\users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.DummyApplication\bin\Debug\GeoWeb.Engine.pdb
+c:\users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.DummyApplication\bin\Debug\Newtonsoft.Json.xml
+c:\users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.DummyApplication\obj\Debug\GeoWeb.DummyApplication.csprojResolveAssemblyReference.cache
+c:\users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.DummyApplication\obj\Debug\GeoWeb.DummyApplication.exe
+c:\users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.DummyApplication\obj\Debug\GeoWeb.DummyApplication.pdb

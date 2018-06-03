@@ -1,0 +1,16 @@
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.DTO\obj\Debug\GeoWeb.DTO.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.DTO\obj\Debug\GeoWeb.DTO.pdb
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.DTO\bin\Debug\GeoWeb.DTO.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.DTO\bin\Debug\GeoWeb.DTO.pdb
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.DTO\obj\Debug\GeoPaint.Component.csprojResolveAssemblyReference.cache
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.DTO\bin\Debug\GeoWeb.DTO.dll
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.DTO\bin\Debug\GeoWeb.DTO.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.DTO\obj\Debug\GeoPaint.Component.csprojResolveAssemblyReference.cache
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.DTO\obj\Debug\GeoWeb.DTO.dll
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.DTO\obj\Debug\GeoWeb.DTO.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.DTO\bin\Debug\GeoWeb.DTO.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.DTO\bin\Debug\GeoWeb.DTO.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.DTO\obj\Debug\GeoPaint.Component.csprojResolveAssemblyReference.cache
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.DTO\obj\Debug\GeoPaint.Component.csproj.CoreCompileInputs.cache
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.DTO\obj\Debug\GeoWeb.DTO.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.DTO\obj\Debug\GeoWeb.DTO.pdb

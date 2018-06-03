@@ -1,0 +1,111 @@
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\obj\Debug\GeoWeb.Bootstrapper.csprojResolveAssemblyReference.cache
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.Bootstrapper.dll
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.Bootstrapper.pdb
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Common.dll
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.Engine.dll
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.MEF.dll
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\System.Web.Http.Common.dll
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Engine.Contracts.dll
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.DTO.dll
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\Newtonsoft.Json.dll
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Common.pdb
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.Engine.pdb
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.MEF.pdb
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\System.Web.Http.Common.xml
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Engine.Contracts.pdb
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.DTO.pdb
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\Newtonsoft.Json.xml
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\obj\Debug\GeoWeb.Bootstrapper.dll
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\obj\Debug\GeoWeb.Bootstrapper.pdb
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Data.Contracts.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.Entities.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Data.Contracts.pdb
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.Entities.pdb
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Data.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Settings.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\EntityFramework.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Data.pdb
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Settings.pdb
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\EntityFramework.xml
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.DTO.dll
+C:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.DTO.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.Bootstrapper.dll
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.Bootstrapper.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Common.dll
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Data.dll
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.Engine.dll
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.MEF.dll
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\System.Web.Http.Common.dll
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Data.Contracts.dll
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.Entities.dll
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Settings.dll
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\EntityFramework.dll
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Engine.Contracts.dll
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.DTO.dll
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.DTO.dll
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Common.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Data.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.Engine.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.MEF.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\System.Web.Http.Common.xml
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Data.Contracts.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.Entities.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Settings.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\EntityFramework.xml
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Engine.Contracts.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.DTO.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.DTO.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\obj\Debug\GeoWeb.Bootstrapper.csprojResolveAssemblyReference.cache
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\obj\Debug\GeoWeb.Bootstrapper.dll
+C:\Users\alik\Desktop\GeoWeb\GeoWeb.Bootstrapper\obj\Debug\GeoWeb.Bootstrapper.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.Bootstrapper.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.Bootstrapper.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Common.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Data.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.Engine.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.MEF.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\System.Web.Http.Common.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Data.Contracts.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.Entities.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Settings.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\EntityFramework.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Engine.Contracts.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.DTO.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.DTO.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Common.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Data.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Data.dll.config
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.Engine.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.MEF.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\System.Web.Http.Common.xml
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Data.Contracts.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.Entities.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Settings.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\EntityFramework.xml
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.Engine.Contracts.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoPaint.DTO.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\GeoWeb.DTO.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\obj\Debug\GeoWeb.Bootstrapper.csprojResolveAssemblyReference.cache
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\obj\Debug\GeoWeb.Bootstrapper.csproj.CoreCompileInputs.cache
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\obj\Debug\GeoWeb.Bootstrapper.csproj.CopyComplete
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\obj\Debug\GeoWeb.Bootstrapper.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoWeb.Bootstrapper\obj\Debug\GeoWeb.Bootstrapper.pdb

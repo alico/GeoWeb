@@ -1,0 +1,22 @@
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Settings\bin\Debug\GeoPaint.Settings.dll
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Settings\bin\Debug\GeoPaint.Settings.pdb
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Settings\bin\Debug\Newtonsoft.Json.dll
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Settings\bin\Debug\Newtonsoft.Json.xml
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Settings\obj\Debug\GeoPaint.Settings.dll
+c:\Users\suna\documents\visual studio 2015\Projects\GeoWeb\GeoPaint.Settings\obj\Debug\GeoPaint.Settings.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.Settings\bin\Debug\GeoPaint.Settings.dll
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.Settings\bin\Debug\GeoPaint.Settings.pdb
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.Settings\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.Settings\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.Settings\obj\Debug\GeoPaint.Settings.csprojResolveAssemblyReference.cache
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.Settings\obj\Debug\GeoPaint.Settings.dll
+C:\Users\alik\Desktop\GeoWeb\GeoPaint.Settings\obj\Debug\GeoPaint.Settings.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Settings\bin\Debug\GeoPaint.Settings.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Settings\bin\Debug\GeoPaint.Settings.pdb
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Settings\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Settings\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Settings\obj\Debug\GeoPaint.Settings.csprojResolveAssemblyReference.cache
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Settings\obj\Debug\GeoPaint.Settings.csproj.CoreCompileInputs.cache
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Settings\obj\Debug\GeoPaint.Settings.csproj.CopyComplete
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Settings\obj\Debug\GeoPaint.Settings.dll
+C:\Users\alik\Desktop\stg\GeoWeb\GeoPaint.Settings\obj\Debug\GeoPaint.Settings.pdb
